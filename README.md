@@ -1,4 +1,4 @@
-# Olá, eu sou o Diego, apaixonado por tecnologia e programação, sempre em busca de novos desafios!
+## Olá, eu sou o Diego, apaixonado por tecnologia e programação, sempre em busca de novos desafios!
 ## Sobre mim!
 Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologias, busco constantemente aprendizado. Valorizo o trabalho em equipe e me destaco pelo relacionamento interpessoal e pela adaptabilidade em diversos contextos.
 <div align="center">
