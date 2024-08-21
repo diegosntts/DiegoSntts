@@ -1,3 +1,6 @@
+# Olá, eu sou o Diego, apaixonado por tecnologia e programação, sempre em busca de novos desafios!
+## Sobre mim!
+Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologias, busco constantemente aprendizado. Valorizo o trabalho em equipe e me destaco pelo relacionamento interpessoal e pela adaptabilidade em diversos contextos.
 <div align="center">
   <a href="https://github.com/diegosntts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosntts&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/>
