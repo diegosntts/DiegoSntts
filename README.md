@@ -15,8 +15,8 @@
   <img align="center" alt="elton-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
-    
   ###
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosntts&theme=tokyonight)
   
 ## Meu encontre
 🔗 [Portfólio ](https://profile-web-rho.vercel.app/) / 💼 [LinkedIn](https://www.linkedin.com/in/diego-sousa-devops/) / 📖 [Medium](https://medium.com/@diegodevs)  
