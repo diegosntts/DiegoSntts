@@ -29,5 +29,5 @@
   ###
 
   
-## Meu encontre
+## Me encontre
 🔗 [Portfólio ](https://profile-web-rho.vercel.app/) / 💼 [LinkedIn](https://www.linkedin.com/in/diego-sousa-devops/) / 📖 [Medium](https://medium.com/@diegodevs)  
