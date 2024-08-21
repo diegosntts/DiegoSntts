@@ -2,10 +2,10 @@
 ## Sobre mim!
  ✍🏻 Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologias, busco constantemente aprendizado. Valorizo o trabalho em equipe e me destaco pelo relacionamento interpessoal e pela adaptabilidade em diversos contextos. 💻
  
-## 📊 My Github Stats
+## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosntts&show_icons=true&theme=tokyonight)
 
-## 🚀 Languages and Tools
+## Linguagens
 <div align="center"><br>
   <img align="center" alt="elton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
