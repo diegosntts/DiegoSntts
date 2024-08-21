@@ -1,11 +1,7 @@
 ## Olá, eu sou o Diego, apaixonado por tecnologia e programação! 🧑‍💻
 ## Sobre mim!
  ✍🏻 Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologias, busco constantemente aprendizado. Valorizo o trabalho em equipe e me destaco pelo relacionamento interpessoal e pela adaptabilidade em diversos contextos. 💻
-<div align="center">
-  <a href="https://github.com/diegosntts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosntts&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosntts&layout=compact&langs_count=16&theme=dark"/>
-</div> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosntts&show_icons=true&theme=tokyonight)
 <div align="center"><br>
   <img align="center" alt="elton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
