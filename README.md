@@ -1,6 +1,6 @@
-## Olá, eu sou o Diego, apaixonado por tecnologia e programação, sempre em busca de novos desafios!
+## Olá, eu sou o Diego, apaixonado por tecnologia e programação! 🧑‍💻
 ## Sobre mim!
-Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologias, busco constantemente aprendizado. Valorizo o trabalho em equipe e me destaco pelo relacionamento interpessoal e pela adaptabilidade em diversos contextos.
+ Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologias, busco constantemente aprendizado. Valorizo o trabalho em equipe e me destaco pelo relacionamento interpessoal e pela adaptabilidade em diversos contextos.
 <div align="center">
   <a href="https://github.com/diegosntts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosntts&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/>
@@ -17,8 +17,6 @@ Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologi
 
     
   ###
-<div align="center">
-<a href="https://www.instagram.com/thediego_st/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/diego-sousa-958538158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+## Meu encontre
+🔗 [Portfólio ](https://profile-web-rho.vercel.app/) / 💼 [LinkedIn](https://www.linkedin.com/in/diego-sousa-devops/) / 📖 [Medium](https://medium.com/@diegodevs)  
