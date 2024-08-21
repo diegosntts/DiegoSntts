@@ -3,12 +3,8 @@
  ✍🏻 Sou Diego Santos, desenvolvedor Node.js e DevOps. Apaixonado por novas tecnologias, busco constantemente aprendizado. Valorizo o trabalho em equipe e me destaco pelo relacionamento interpessoal e pela adaptabilidade em diversos contextos. 💻
  
 ## Github Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosntts&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosntts&theme=tokyonight)
-
-<a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tauz-hub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauz-hub&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+<a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosntts&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosntts&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
   
 ## Linguagens
 <div align="center"><br>
